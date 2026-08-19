@@ -9,9 +9,9 @@
 -
 
 ## Fotoğraflar
-<!-- el defteri sayfalarını gorseller/ klasörüne at, buraya dosya adı + kısa açıklama yaz -->
-<!-- örn: - gorseller/gun-4-01.jpg — Kalman denklemleri türetimi -->
--
+<!-- el defteri sayfalarını gorseller/ klasörüne at, markdown resim sözdizimiyle ekle ki burada direkt görünsün -->
+<!-- örn: ![kısa açıklama](gorseller/gun-4-01.jpg) -->
+
 
 ## Öğrenilenler
 -
