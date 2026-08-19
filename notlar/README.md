@@ -4,9 +4,10 @@
 
 ## Nasıl kullanılır
 1. O günün dosyasını aç: `notlar/hafta-NN/gun-D.md`
-2. Oturumu yap, dosyayı doldur.
-3. Commit: `git add notlar/hafta-NN/gun-D.md && git commit -m "hafta-NN gun-D: <özet>"`
-4. Aşağıdaki checklist'te kutuyu işaretle ve bu dosyayı da commit'le.
+2. Oturumu yap, dosyayı doldur — bilgisayardan yazdığın kısım doğrudan buraya.
+3. El defterine yazdıysan: sayfa fotoğrafını `notlar/hafta-NN/gorseller/` klasörüne at (ör. `gun-D-01.jpg`), dosyanın 'Fotoğraflar' bölümüne dosya adı + kısa açıklama ekle. Aynı günde ikisini de kullanmak sorun değil.
+4. Commit: `git add notlar/hafta-NN && git commit -m "hafta-NN gun-D: <özet>"`
+5. Aşağıdaki checklist'te kutuyu işaretle ve bu dosyayı da commit'le.
 
 ## İlerleme
 

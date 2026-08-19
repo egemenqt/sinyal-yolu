@@ -8,6 +8,11 @@
 ## Yapılanlar
 -
 
+## Fotoğraflar
+<!-- el defteri sayfalarını gorseller/ klasörüne at, buraya dosya adı + kısa açıklama yaz -->
+<!-- örn: - gorseller/gun-3-01.jpg — Kalman denklemleri türetimi -->
+-
+
 ## Öğrenilenler
 -
 
