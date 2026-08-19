@@ -9,11 +9,11 @@
 -
 
 ## Fotoğraflar
-<!-- el defteri sayfalarını gorseller/ klasörüne at, buraya dosya adı + kısa açıklama yaz -->
-- gorseller/gun-1-01.jpg —
-- gorseller/gun-1-02.jpg —
-- gorseller/gun-1-03.jpg —
-- gorseller/gun-1-04.jpg —
+<!-- el defteri sayfalarını gorseller/ klasörüne at, ![açıklama](gorseller/dosya.jpg) şeklinde ekle -->
+![gün 1 - sayfa 1](gorseller/gun-1-01.jpg)
+![gün 1 - sayfa 2](gorseller/gun-1-02.jpg)
+![gün 1 - sayfa 3](gorseller/gun-1-03.jpg)
+![gün 1 - sayfa 4](gorseller/gun-1-04.jpg)
 
 ## Öğrenilenler
 -
