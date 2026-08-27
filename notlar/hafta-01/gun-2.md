@@ -1,7 +1,7 @@
 # Hafta 01 · Gün 2 — Sinyaller ve Sistemlere Giriş
 
 **Faz:** Faz 01
-**Bugünkü hedef:** NumPy/Matplotlib ile sinyal üretme, repo not defterini adım adım çalıştır.
+**Bugünkü hedef:** Playlist'in sıradaki 2 videosu (izle, el defterine not al) + kalan zamanda kendi kodunla pratik yap, günü kapat.
 **Planlanan süre:** 1.5 sa
 **Tarih:**
 
