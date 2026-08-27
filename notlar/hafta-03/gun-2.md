@@ -1,7 +1,7 @@
 # Hafta 03 · Gün 2 — Fourier Serisi ve DFT
 
 **Faz:** Faz 01
-**Bugünkü hedef:** DFT matematiği + repo Hafta 3 not defteri.
+**Bugünkü hedef:** DFT matematiği + Playlist'in sıradaki 2 videosu.
 **Planlanan süre:** 1.5 sa
 **Tarih:**
 

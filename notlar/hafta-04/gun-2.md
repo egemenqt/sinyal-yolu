@@ -1,7 +1,7 @@
 # Hafta 04 · Gün 2 — FIR/IIR Filtreleri — Faz 01 kapanışı
 
 **Faz:** Faz 01
-**Bugünkü hedef:** scipy.signal ile filtre tasarımı; repo Hafta 4 not defteri.
+**Bugünkü hedef:** scipy.signal ile filtre tasarımı; Playlist'in sıradaki 2 videosu.
 **Planlanan süre:** 1.5 sa
 **Tarih:**
 

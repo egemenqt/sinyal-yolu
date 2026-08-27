@@ -1,7 +1,7 @@
 # Hafta 07 · Gün 2 — Ses ve Konuşma İşleme
 
 **Faz:** Faz 02
-**Bugünkü hedef:** Repo Hafta 7 not defteri — konuşma işleme örneği.
+**Bugünkü hedef:** Playlist'in sıradaki 2 videosu — konuşma işleme örneği.
 **Planlanan süre:** 1.5 sa
 **Tarih:**
 

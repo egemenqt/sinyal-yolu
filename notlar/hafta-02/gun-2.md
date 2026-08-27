@@ -1,7 +1,7 @@
 # Hafta 02 · Gün 2 — Örnekleme, Nicemleme ve Matematik Temeli
 
 **Faz:** Faz 01
-**Bugünkü hedef:** Nicemleme (quantization) ve bit derinliği etkisi; repo Hafta 2 not defteri.
+**Bugünkü hedef:** Nicemleme (quantization) ve bit derinliği etkisi; Playlist'in sıradaki 2 videosu.
 **Planlanan süre:** 1.5 sa
 **Tarih:**
 

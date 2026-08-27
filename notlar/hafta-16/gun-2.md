@@ -1,7 +1,7 @@
 # Hafta 16 · Gün 2 — Dalgacıklar, ICA ve ML — Faz 03 kapanışı
 
 **Faz:** Faz 03
-**Bugünkü hedef:** Repo Hafta 16 not defteri.
+**Bugünkü hedef:** Playlist'in sıradaki 2 videosu.
 **Planlanan süre:** 1.5 sa
 **Tarih:**
 

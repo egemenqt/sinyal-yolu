@@ -1,7 +1,7 @@
 # Hafta 08 · Gün 2 — Ses Gürültü Giderme — Faz 02 kapanışı
 
 **Faz:** Faz 02
-**Bugünkü hedef:** Repo Hafta 8 not defteri.
+**Bugünkü hedef:** Playlist'in sıradaki 2 videosu.
 **Planlanan süre:** 1.5 sa
 **Tarih:**
 

@@ -1,7 +1,7 @@
 # Hafta 15 · Gün 2 — Finansal Zaman Serileri ve Kalman Filtreleri
 
 **Faz:** Faz 03
-**Bugünkü hedef:** Repo Hafta 15 not defteri + Labbe'nin kitabından paralel okuma.
+**Bugünkü hedef:** Playlist'in sıradaki 2 videosu + Labbe'nin kitabından paralel okuma.
 **Planlanan süre:** 1.5 sa
 **Tarih:**
 

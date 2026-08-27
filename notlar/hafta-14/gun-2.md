@@ -1,7 +1,7 @@
 # Hafta 14 · Gün 2 — Gömülü DSP
 
 **Faz:** Faz 03
-**Bugünkü hedef:** Repo Hafta 14 not defteri; C++ ile basit bir filtre implementasyonu.
+**Bugünkü hedef:** Playlist'in sıradaki 2 videosu; C++ ile basit bir filtre implementasyonu.
 **Planlanan süre:** 1.5 sa
 **Tarih:**
 

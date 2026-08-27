@@ -1,7 +1,7 @@
 # Hafta 11 · Gün 2 — Radar Sinyal İşleme
 
 **Faz:** Faz 03
-**Bugünkü hedef:** Repo Hafta 11 not defteri.
+**Bugünkü hedef:** Playlist'in sıradaki 2 videosu.
 **Planlanan süre:** 1.5 sa
 **Tarih:**
 

@@ -1,7 +1,7 @@
 # Hafta 05 · Gün 2 — FFT ve STFT
 
 **Faz:** Faz 02
-**Bugünkü hedef:** STFT ve zaman-frekans çözünürlük ödünleşimi; repo Hafta 5 not defteri.
+**Bugünkü hedef:** STFT ve zaman-frekans çözünürlük ödünleşimi; Playlist'in sıradaki 2 videosu.
 **Planlanan süre:** 1.5 sa
 **Tarih:**
 
